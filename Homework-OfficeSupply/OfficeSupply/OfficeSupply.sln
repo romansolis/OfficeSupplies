@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OfficeSupply", "OfficeSupply\OfficeSupply.dwproj", "{6445F517-FA5E-45AF-9E51-BB59078E5C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6445F517-FA5E-45AF-9E51-BB59078E5C58}.Development|Default.ActiveCfg = Development
+		{6445F517-FA5E-45AF-9E51-BB59078E5C58}.Development|Default.Build.0 = Development
+		{6445F517-FA5E-45AF-9E51-BB59078E5C58}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDD009D-8311-4521-BDEA-FD2FE4356086}
+	EndGlobalSection
+EndGlobal
